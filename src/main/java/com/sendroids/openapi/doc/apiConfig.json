@@ -1,0 +1,10 @@
+{
+  "library": "spring-boot",
+  "developerName": "xiaoyang",
+  "developerEmail": "11@test.mail",
+  "developerOrganization": "baidu.com",
+  "invokerPackage": "com.sendroids.openapi",
+  "modelPackage": "com.sendroids.openapi.domain",
+  "apiPackage": "com.sendroids.openapi.api",
+  "artifactId": "swagger-petstore-retrofit2"
+}

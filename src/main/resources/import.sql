@@ -1,0 +1,1 @@
+insert into user(username, password, email, phone) values ('name', 'qqq123456', '123@email.com', '00000001');
